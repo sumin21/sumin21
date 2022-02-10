@@ -1,4 +1,5 @@
-### 👋Hi!👋 I'm interested in **backend developers** 
+### 👋Hi!👋 My name is Sumin.
+### I'm interested in **backend developers** 
 > *(and I'm studying in **Ajou University**.)*
 
 
